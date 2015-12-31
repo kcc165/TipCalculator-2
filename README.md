@@ -26,14 +26,15 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-http://i.imgur.com/hCM9LdC.gifv
+http://i.imgur.com/hCM9LdC.gif
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 One challenge I had is that I do not own a Mac computer. I ended up installing a virtual machine on my laptop to complete this assignment. I also
-have very little experience using Mac OS, only having toyed around with it a couple times in the past. I had to learn how to use not only XCode but the OS in general. 
+have very little experience using Mac OS, only having toyed around with it a couple times in the past. I had to learn how to use not only XCode but the OS in general.
+I also had trouble uploading my project to GitHub. The first time I tried, I kept deleting and re-adding repositories to try to get it to work. I'm not sure what went wrong, but I deleted my whole project. I didn't have a backup, so I had to start over from scratch. 
 
 ## License
 
